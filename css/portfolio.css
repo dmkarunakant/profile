@@ -175,10 +175,10 @@ header{
     }
 
     header .logo-div img{
-        width: 9rem;
-        height: 9rem;
-        margin-top: -1rem;
-        margin-left: -2.4rem;
+        width: 100%;
+        height: auto;
+/*         margin-top: -1rem;
+        margin-left: -2.4rem; */
     }
 
     header .logo-div .name{
