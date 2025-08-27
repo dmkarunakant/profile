@@ -67,10 +67,10 @@ overlay.addEventListener("click", closeMobileNav);
 var typeData = new Typed(".role", {
     strings: [
       "Digital Marketing Consultant ",
-      "Hire SEO Expert",
-      "Hire Social Media Expert",
-	  "Best Google / FB Ads Expert",
-	  "Content Management",
+      "Best SEO Expert",
+      "Best Social Media Expert",
+	  "Best Paid Ads Expert",
+	  "Best SEO On/Off-Page Expert",
     ],
     loop: true,
     typeSpeed: 100,
